@@ -1,0 +1,29 @@
+{
+  "db": {
+    "user": "app_user",
+    "password": "Dolarizate2023!",
+    "name": "dolarizate",
+    "host": "localhost"
+  },
+  "session": {
+    "timeout": 100
+  },
+  "notification": {
+	  "from": "no-reply@dolarizate.com.ar"
+  },
+  "bind": {
+    "server": "https://api.bind.com.ar",
+    "user": "api-mecaenpol-prd",
+    "pass": "bn52mnNqa$DDs3B6p5Xx",
+    "cert": "mecaenpol_prd.crt",
+    "account" : "20-1-777238-1-5",
+    "mainCVU": "0000240200000000000000"
+  },
+  "api": {
+    "key": "core",
+    "loglevel": 2
+  },
+  "front" : {
+    "location": "https://dolarizate.com.ar/"
+  }
+}

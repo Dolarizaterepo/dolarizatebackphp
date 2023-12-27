@@ -1,0 +1,8 @@
+REQUEST:
+{"step":"130","externaltrxid":"test2"}
+BODY:
+
+REQUEST:
+{"decision":"HIT","idtx":"9dec31b9-f9e1-4cb2-8d51-1007713de4c7","externalID":"test3"}
+BODY:
+

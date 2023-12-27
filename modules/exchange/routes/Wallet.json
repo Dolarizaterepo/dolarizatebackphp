@@ -1,0 +1,35 @@
+{
+  "wallet/exchange": {
+    "anonymous": false
+  },
+  "wallet/simIn": {
+    "anonymous": false
+  },
+  "wallet/simOut": {
+    "anonymous": false
+  },
+  "wallet/getCotizacion": {
+    "anonymous": false
+  },
+  "wallet/find": {
+    "anonymous": false
+  },
+  "wallet/getBalance": {
+    "anonymous": false
+  },
+  "wallet/createCVU": {
+    "anonymous": false
+  },
+  "wallet/conciliate": {
+    "anonymous": true
+  },
+  "wallet/transfer": {
+    "anonymous": false
+  },
+  "wallet/getReport": {
+    "anonymous": false
+  },
+  "wallet/setAlias": {
+    "anonymous": false
+  }
+}

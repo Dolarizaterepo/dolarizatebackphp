@@ -1,0 +1,11 @@
+{
+  "users/*": {
+    "anonymous": false
+  },
+  "users/generateCode": {
+    "anonymous": true
+  },
+  "users/passwordRecovery": {
+    "anonymous": true
+  }
+}
